@@ -57,41 +57,34 @@ Este repositorio contiene el proyecto realizado por el grupo 10 de estudiantes d
 
 ![Imagen Adriano Tassi](https://drive.usercontent.google.com/download?id=1bdMdYFYWmPl_KafiPo0eqSOXcFanbcVU)
 
-- **Edad:** 23 años  
+- **Edad:** 18 años  
 - **Sobre mí:** me encanta estudiar
-- **Rol:** Desarrollador de hardware y soporte técnico.  
+- **Rol:**  
 - **Responsabilidades:**  
-  - Diseño y montaje de prototipos electrónicos.  
-  - Programación de firmware.  
-  - Mantenimiento y calibración de dispositivos.
 
 ---
 
 ### 5. Dayanna Torres
 
-![Imagen Dayanna Torres](ruta/a/imagen_dayanna.jpg)
+![Imagen Dayanna Torres](https://drive.usercontent.google.com/download?id=1mPOFpuNAiCng9hIzX147uTb17rAB2aLR)
 
-- **Edad:** 21 años  
-- **Sobre mí:** me encanta estudiar 
-- **Rol:** Diseñadora UX/UI.  
+- **Edad:**   
+- **Sobre mí:** me encanta estudiar
+- **Rol:**  
 - **Responsabilidades:**  
-  - Creación de wireframes y prototipos visuales.  
-  - Investigación de usuarios y experiencia de uso.  
-  - Colaboración en la mejora continua de interfaces.
+
 
 ---
 
 ### 6. Daniel Vargas
 
-![Imagen Daniel Vargas]([ruta/a/imagen_daniel.jpg](https://drive.usercontent.google.com/download?id=1mHoZbLwFb_tb_c0BUj2As9zEX_eiQyje))
+![Imagen Daniel Vargas](https://drive.usercontent.google.com/download?id=1mHoZbLwFb_tb_c0BUj2As9zEX_eiQyje)
 
-- **Edad:** 24 años  
+- **Edad:**  
 - **Sobre mí:** me encanta estudiar 
-- **Rol:** Tester / QA.  
+- **Rol:**   
 - **Responsabilidades:**  
-  - Diseño y ejecución de pruebas funcionales.  
-  - Reporte y seguimiento de bugs.  
-  - Validación de requisitos y estándares de calidad.
+  
 
 ---
 
