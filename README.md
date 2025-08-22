@@ -46,10 +46,10 @@ Este repositorio contiene el proyecto realizado por el grupo 10 de estudiantes d
 
 ![Imagen Natalia Seminario](https://drive.usercontent.google.com/download?id=1d7tzBrbWVMRrXeJAbYxM5Y2IDjotGHzT)
 
-- **Edad:**  
-- **Sobre mí:** me encanta estudiar
-- **Rol:**  programador 2
-- **Responsabilidades:**  
+- **Edad:**  19 años
+- **Sobre mí:** me gusta taylor
+- **Rol:**  multitareas 2
+- **Responsabilidades:**  apoyar al equipo en tiempos de estrés  
 
 ---
 
