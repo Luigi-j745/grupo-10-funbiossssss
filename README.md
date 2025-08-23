@@ -47,9 +47,9 @@ Este repositorio contiene el proyecto realizado por el grupo 10 de estudiantes d
 ![Imagen Natalia Seminario](https://drive.usercontent.google.com/download?id=1d7tzBrbWVMRrXeJAbYxM5Y2IDjotGHzT)
 
 - **Edad:**  19 años
-- **Sobre mí:** me gusta taylor
-- **Rol:**  multitareas 2
-- **Responsabilidades:**  apoyar al equipo en tiempos de estrés  
+- **Sobre mí:** Soy una persona apasionada por las artes, especialmente el dibujo y la pintura, con una fuerte inclinación hacia la creatividad y la innovación. Me interesa aplicar mi imaginación y habilidades artísticas al diseño de nuevas tecnologías enfocadas en la medicina, con el propósito de contribuir a mejorar la calidad de vida de las personas.
+- **Rol:**  Diseño del prototipo
+- **Responsabilidades:** Diseño visual y conceptual, desarrollo de prototipos, investigación creativa y comunicación visual.   
 
 ---
 
