@@ -45,7 +45,7 @@ Este repositorio contiene el proyecto realizado por el grupo 10 de estudiantes d
 
 ### 3. Natalia Seminario
 
-![Imagen Natalia Seminario](https://drive.usercontent.google.com/download?id=1d7tzBrbWVMRrXeJAbYxM5Y2IDjotGHzT)
+![Imagen Natalia Seminario](https://drive.usercontent.google.com/download?id=1Iddh968VPXK8bIJ_DKZBZo1ReH8q5s7x)
 
 - **Edad:**  19 años
 - **Sobre mí:** Soy una persona apasionada por las artes, especialmente el dibujo y la pintura, con una fuerte inclinación hacia la creatividad y la innovación. Me interesa aplicar mi imaginación y habilidades artísticas al diseño de nuevas tecnologías enfocadas en la medicina, con el propósito de contribuir a mejorar la calidad de vida de las personas.
