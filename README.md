@@ -78,8 +78,9 @@ Este repositorio contiene el proyecto realizado por el grupo 10 de estudiantes d
 ---
 
 ### 6. Daniel Vargas
+<img src="https://drive.usercontent.google.com/download?id=1mHoZbLwFb_tb_c0BUj2As9zEX_eiQyje" alt="Daniel" width="300"/>
 
-![Imagen Daniel Vargas](https://drive.usercontent.google.com/download?id=1mHoZbLwFb_tb_c0BUj2As9zEX_eiQyje)
+
 
 - **Edad:** 18 años
 - **Sobre mí:** Me gusta la musica,dibujar,tocar el piano,
