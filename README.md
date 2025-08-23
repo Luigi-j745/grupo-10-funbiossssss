@@ -36,10 +36,11 @@ Este repositorio contiene el proyecto realizado por el grupo 10 de estudiantes d
 ![Imagen Luigi Roncallo](https://drive.usercontent.google.com/download?id=1KCV8IhNZi4AgK9apUXNgs4soUSF3RTZD)
 
 - **Edad:** 19 años 
-- **Sobre mí:** me encanta estudiar
-- **Rol:** programador 1
-- **Responsabilidades:**  
-
+- **Sobre mí:** Interesado en la robotica y en la innovacion tecnológica. Siempre activo y con ganas de ayudar en lo que me pregunten.
+- **Rol:** Investigador y programador
+- **Responsabilidades:**
+- Investigación de tendencias y avances tecnológicos.
+- Programar las partes necesarias.
 ---
 
 ### 3. Natalia Seminario
