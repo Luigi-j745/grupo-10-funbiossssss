@@ -21,7 +21,7 @@ Este repositorio contiene el proyecto realizado por el grupo 10 de estudiantes d
 
 ### 1. Eva Romero
 
-![Imagen Eva Romero](https://drive.usercontent.google.com/download?id=1bywC0-rUWYolZUu-x1n0q6He9eV-Uk6S)  
+<img src="https://drive.usercontent.google.com/download?id=1bywC0-rUWYolZUu-x1n0q6He9eV-Uk6S" alt="Eva" width="300"/>
 
 - **Edad:** 18 años  
 - **Sobre mí:** me encanta estudiar 
