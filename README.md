@@ -56,13 +56,14 @@ Este repositorio contiene el proyecto realizado por el grupo 10 de estudiantes d
 
 ### 4. Adriano Tassi
 
-![Imagen Adriano Tassi](https://drive.usercontent.google.com/download?id=1bdMdYFYWmPl_KafiPo0eqSOXcFanbcVU)
+<img src="https://drive.usercontent.google.com/download?id=1g5GPsDdG1V8MH47N5mgkEePFXeOlYix3" alt="Adriano" width="300"/>
 
 - **Edad:** 18 años  
-- **Sobre mí:** me encanta estudiar
-- **Rol:**  
-- **Responsabilidades:**  
-
+- **Sobre mí:** Me gusta mucho escuchar música casi todo el tiempo y jugar básquet cuando tengo la oportunidad. Siempre estoy dispuesto a ayudar al grupo y aportar cuando se necesita.
+- **Rol:**  Investigador 
+- **Responsabilidades:**
+  - Buscar y recopilar información necesaria para el proyecto
+  - Apoyar al equipo con ideas y propuestas basadas en la investigación
 ---
 
 ### 5. Dayanna Torres
