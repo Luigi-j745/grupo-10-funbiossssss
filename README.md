@@ -67,13 +67,12 @@ Este repositorio contiene el proyecto realizado por el grupo 10 de estudiantes d
 ---
 
 ### 5. Dayanna Torres
+ <img src="https://drive.usercontent.google.com/download?id=1mPOFpuNAiCng9hIzX147uTb17rAB2aLR" alt="Dayanna" width="300"/>
 
-![Imagen Dayanna Torres](https://drive.usercontent.google.com/download?id=1mPOFpuNAiCng9hIzX147uTb17rAB2aLR) <img src="https://drive.usercontent.google.com/download?id=1mPOFpuNAiCng9hIzX147uTb17rAB2aLR" alt="Dayanna" width="300"/>
-
-- **Edad:**   
-- **Sobre mí:** me encanta estudiar
-- **Rol:**  
-- **Responsabilidades:**  
+- **Edad:** 18 años
+- **Sobre mí:** Me gusta bailar y leer
+- **Rol:** Investigador 
+- **Responsabilidades:** Ayudar en la lluvia de ideas y propuestas del equipo
 
 
 ---
