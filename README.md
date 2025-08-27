@@ -25,9 +25,10 @@ Este repositorio contiene el proyecto realizado por el grupo 10 de estudiantes d
 
 - **Edad:** 18 años  
 - **Sobre mí:** me encanta estudiar 
-- **Rol:** multitareas 
+- **Rol:** investigador 
 - **Responsabilidades:**  
-  - apoyar moralmente y dar todo de mi
+  - investigación
+  - diseño del prototipo
 
 ---
 
