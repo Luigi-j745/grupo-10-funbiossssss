@@ -254,85 +254,94 @@ El niño rechaza el contacto físico y el uso de dispositivos, mostrando llanto 
 La tolerancia por parte del niño es baja, no se adapta fácilmente a los dispositivos ortopédicos ni a la terapia física. La madre tiene buena disposición y aplica las pautas mencionadas, lo que favorece a la continuidad del tratamiento. 
 
 13. **Equipo actual** 
-- *Modelo, estilo, marca, número de serie:* 
-- Corsé ortopédico tipo Baby Boston, actualmente en uso. 
-- Corsé semirígido dorso lumbar con hiperextensión (en prueba de tolerancia). 
-- Fabricación tradicional mediante molde de yeso. 
-- *Características, componentes, peso, dimensiones:* 
-- Material: termoplástico semirrígido, con refuerzos metálicos ligeros. 
-- Peso aproximado: 1 kg (adaptado para niños pequeños). 
-- Dimensiones: confeccionado a medida del paciente, cubre región dorsolumbar con puntos de apoyo para corrección de curvas. 
-- Ajustes mediante correas y cierres de velcro. 
-- *Objetivos y justificación para elegir esta tecnología:* 
-- Corregir y controlar la progresión de la escoliosis congénita dorsolumbar. 
-- Mantener la alineación postural y favorecer la simetría corporal. 
-- Alternativa no quirúrgica mientras el paciente crece y no es candidato a cirugía. 
-- Facilita seguimiento del ángulo de Cobb y disminuye el riesgo de progresión rápida. 
-- *Vida útil restante prevista de la tecnología (antigüedad, estado, historial de reparaciones*): 
+**Modelo, estilo, marca, número de serie:** 
+- Pie SACH (Solid Ankle Cushion Heel), actualmente en uso.
+- Prótesis BK convencional, actualmente en uso.
+- Fabricación a medida con moldes del miembro residual del paciente.
+- Prótesis de miembro inferior izquierdo tipo BK (Below Knee - por debajo de rodilla).
+
+**Características, componentes, peso, dimensiones:**
+- Componente principal: prótesis transtibial con pie SACH.
+- El muñón tiene forma cónica, con tejido celular subcutáneo regular, musculatura firme y mioplastia adecuada.
+- No se indican dimensiones ni peso exactos.
+- Radiografías del muñón muestran no exostosis y buen componente muscular.
+  
+**Objetivos y justificación para elegir esta tecnología:**
+- Facilitar la protetización del miembro inferior para movilización en tramos largos.
+- Permitir reinserción social y escolar.
+- Se sugiere esta prótesis por la etiología traumática y nivel de amputación transtibial.
+- Pie SACH elegido para proporcionar estabilidad y facilitar la marcha independiente.
+
+**Vida útil restante prevista de la tecnología (antigüedad, estado, historial de reparaciones):**
 - El corsé actual fue indicado recientemente (mayo–agosto 2025). 
-- Vida útil limitada (aprox. 6 meses) debido al rápido crecimiento del niño. 
-- No reporta reparaciones hasta la fecha, pero se anticipa necesidad de cambios frecuentes. 
-- *Gustos, disgustos e inquietudes del cliente y del cuidador:* 
-- El niño se muestra irritable, llora con frecuencia y presenta baja tolerancia al corsé y a la manipulación. 
-- La madre se preocupa por la incomodidad y el rechazo del niño, así como por la dificultad en la toma de medidas. 
-- Inquietud por el estreñimiento y la orina “cargada”, aunque no relacionados directamente con el corsé. 
-- *Eficacia funcional del equipo actual, equipo utilizado correctamente:* 
-- Aún está en fase de prueba de tolerancia, por lo que el uso es intermitente. 
-- No se ha evaluado aún el efecto real en la corrección de la curva. 
-- Funcionalidad parcial: cumple con el objetivo terapéutico si se logra adherencia. 
-- Limitación principal: la escasa colaboración del paciente, que compromete la eficacia del tratamiento. 
+- Fecha de amputación: 19/12/2022.
+- Prótesis entregada el 28/06/2023.
+- Prótesis actualmente en uso presenta presión en muñón a nivel del cóndilo medial y enrojecimiento con leve laceración distal en control del 11/10/2024.
+- No hay información directa sobre historial de reparaciones o ajustes previos, pero se indica la necesidad de evaluación biomecánica para liberar zonas de presión en el socket.
+- El paciente está en crecimiento, por lo que es probable que la prótesis requiera ajustes o recambios cada 1 a 2 años según comentarios del caso.
+  
+**Gustos, disgustos e inquietudes del cliente y del cuidador:**
+- El paciente presenta irritabilidad, miedo y temor al personal médico posterior a la amputación.
+- Paciente refiere dolor en el muñón durante control, con zona enrojecida y laceración leve, que genera malestar.
+- La familia enfrenta dificultades relacionadas con transporte, gastos y ausencias escolares por las citas médicas y ajustes de prótesis.
+- No se reportan preferencias específicas sobre el equipo, pero existe preocupación por la comodidad y el malestar provocado por la presión del socket.
 
-**PUNTO 2:**  
+ **Eficacia funcional del equipo actual, equipo utilizado correctamente:**
+- Inicialmente, la marcha era dependiente; después de entrega de prótesis y terapia física, la marcha es independiente.
+- Se observa presión en el muñón que afecta potencialmente la comodidad y el uso prolongado.
+- Indicaciones de terapia física y ocupacional con prótesis fueron cumplidas (8 sesiones cada una).
+- La prótesis cumple con los objetivos funcionales pero requiere ajustes para evitar zonas de presión y favorecer mayor confort y funcionalidad.
 
-1) **Usuario/Paciente: Describe las habilidades y capacidades de la persona con discapacidad(caso asignado).** 
+**PUNTO 2**
+**a) Usuario/Paciente**
+**Edad:** 5 años (a la fecha 19/08/2025)
+**Diagnóstico:** Amputación traumática de miembro inferior izquierdo transtibial debajo de rodilla (BK), tercio medio, etiología traumática (accidente con máquina segadora). Código S88.1
+**Capacidades:**
+    -Funciones biológicas normales
+    -Fuerza muscular buena en muñón
+    -Musculatura firme, mioplastia adecuada
+    -Alimentación independiente
+    -Colabora en vestido e higiene mayor y menor
+    -Funciones superiores normales
+    -Marcha independiente con prótesis (tras terapia física y entrega de prótesis)
+**Limitaciones:**
+    -Marcha dependiente sin prótesis
+    -Irritabilidad, temor al personal médico post amputación
+    -Dolor y zona de presión en el muñón con algunos episodios de laceración leve
+    -Traslado en calle inicialmente llevado cargando
+    -Dislalias al hablar (dificultades en lenguaje)
+**b) Actividad**
+**Tareas principales que debe realizar:**
+    -Desplazamiento autónomo usando la prótesis para movilizarse en tramos largos
+    -Actividades de la vida diaria como alimentarse, vestirse (con colaboración), higiene personal (mayor y menor)
+    -Participar en actividades sociales y escolares para su reinserción
+    -Adaptarse a las actividades habituales de un niño en educación inicial y su entorno familiar
+    -Uso correcto y mantenimiento básico de la prótesis
+**c) Contexto**
+**Entorno físico:**
+    -Vivienda en área rural en Caserio Tamberia, sector Santa Elvira, Cachachi - Cajabamba - Cajamarca
+    -Servicio de agua y luz disponible
+    -Requiere desplazamientos a centro médico que implican gastos y ausencias escolares
+**Entorno social y cultural:**
+    -Familia acompañante responsable (padre como tutor)
+    -Religión católica
+    -Grado de instrucción: educación inicial
+    -Padres y familia sin antecedentes patológicos relevantes
+    -Apoyo psicológico y social en proceso
+**Limitaciones contextuales:**
+    -Dificultades logísticas y económicas para trasladarse a controles médicos
+    -Ausencias escolares por citas médicas
+    -Variabilidad en crecimiento corporal que afecta ajustes y adaptación de prótesis
+    -Necesidad de constante soporte multidisciplinario (terapia física, ocupacional, psicológica, social)
+**d) Tecnología**
+**Dispositivos:**
+    -Prótesis de miembro inferior izquierdo transtibial debajo de rodilla (BK) con pie SACH convencional
+    -Socket ajustado al muñón para soporte, aunque presenta zonas de presión que requieren ajustes
+**Estrategias:**
+    -Terapia física pre y post protésica para mejorar marcha independiente
+    -Terapia ocupacional para adaptación funcional con la prótesis
+    -Evaluaciones periódicas radiográficas y biomecánicas para ajustar prótesis según crecimiento y evitar complicaciones (como zonas de       presión o sobrecrecimiento óseo)
+    -Psicología para manejo emocional y comportamiento post amputación
+    -Servicio social para apoyo en aspectos logísticos y evaluación de contexto
+    -Ajustes y chequeos frecuentes para mejorar confort y funcionalidad del equipo protésico
 
-***Edad:*** 1 año 10 meses. 
-
-***Diagnóstico*:** Escoliosis congénita con doble curva (dorsal izquierda y lumbar derecha). ***Capacidades:*** 
-
-- Marcha independiente con base amplia de sustentación. 
-- Movilidad conservada en caderas, rodillas, tibias y pies. 
-- Buen tono y trofismo muscular. 
-- Desarrollo del lenguaje en curso (“mamá, papá, chau, vete”). 
-
-***Limitaciones:*** 
-
-- Alteración postural (hombro y escápula derecha descendida, arco longitudinal interno descendido, calcáneo valgo). 
-- Poco colaborador, muy irritable, llora durante evaluaciones y terapias. 
-- Estreñimiento y “orina cargada” referidos por la madre. 
-2) **Actividad: Describe el conjunto de tareas a realizar por la persona con discapacidad(caso asignado).** 
-
-***Tareas principales que debe realizar:*** 
-
-- Mantener una marcha independiente y segura. 
-- Realizar actividades propias de su edad (juego, exploración, interacción social). 
-- Seguir ejercicios de fisioterapia (con ayuda del cuidador). 
-- Uso adecuado y constante del corsé ortopédico para control de la escoliosis. 
-- Asistir a consultas de control y sesiones de desarrollo psicomotor. 
-3) **Contexto: Describe el entorno o contexto social, cultural y físico que rodea el entorno en el que debe realizarse la actividad.** 
-
-***Entorno físico**:* vivienda de material simple (triplay), con acceso a luz eléctrica. 
-
-***Entorno social y cultural:*** 
-
-- Vive con sus padres y dos hermanos sanos. 
-- Cuenta con apoyo familiar, especialmente de la madre, quien lo acompaña a controles y terapias. 
-- Acceso a instituciones de salud especializadas (INSN, INR, terapia física, psicología, servicio social). 
-
-***Limitaciones contextuales:*** 
-
-- Niño pequeño con baja tolerancia al corsé y a la manipulación en terapia 
-- La familia debe desplazarse a distintos servicios para seguimiento. 
-4) **Tecnología: dispositivos o estrategias utilizadas para cerrar la brecha entre las capacidades de la persona y las demandas del entorno** 
-
-***Dispositivos:*** 
-
-- Corsé tipo Baby Boston. 
-- Corsé semirígido dorso lumbar con hiperextensión (fase de prueba de tolerancia). 
-
-***Estrategias:*** 
-
-- Terapia física individual y pautas domiciliarias enseñadas a la madre. 
-- Apoyo de psicología para manejo de irritabilidad y adaptación. 
-- Servicio social para seguimiento y acompañamiento en el uso del corsé. 
-- Derivación a desarrollo psicomotor para manejo sensorial. 
