@@ -272,11 +272,11 @@ No se mencionan otras actividades de vida diaria ni sobre actividades educativas
 - Evitar recurrencia del sobrecrecimiento óseo y futuras intervenciones.
 - Integración a actividades diarias y escolares sin limitaciones físicas.
 ## <a name="_7j2v9spcpq0h"></a>**Referencias:**
-[1]
 
-[2]
 
-[3] C.-C. Pon, T.-J. Ong, A. Fazly Abd Rasid, A. Halim Abd Rashid, y K. Jamil, “Case Report: Halting terminal osseous overgrowth post tibia amputation in children: a report of three cases”, *Frontiers in Surgery*, vol. 11, Art. 1320661, 24-May-2024. doi: 10.3389/fsurg.2024.1320661.
+
+ C.-C. Pon, T.-J. Ong, A. Fazly Abd Rasid, A. Halim Abd Rashid, y K. Jamil, “Case Report: Halting terminal osseous overgrowth post tibia amputation in children: a report of three cases”, *Frontiers in Surgery*, vol. 11, Art. 1320661, 24-May-2024. doi: 10.3389/fsurg.2024.1320661.
+
 
 
 
