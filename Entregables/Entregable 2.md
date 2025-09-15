@@ -53,7 +53,7 @@ con el uso de la tecnología: El paciente es muy temeroso y poco colaborador con
 - Escuela, vocación, empleo, programa diurno, recreación, actividades de ocio: no menciona  
 - Rutina diaria, actividades, equipo utilizado, posición preferida: **Actividades;** realiza los ejercicios que le enseñan en terapia física. **Equipo utilizado**;** se le ha indicado un corsé tipo Baby Boston y un corsé semirrígido dorsolumbar para probar su tolerancia. **Posición preferida**;no se menciona. 
 5. **Estado neuromuscular y musculoesquelético** 
-- Estatura, peso: tall 85 cm ,13 kg 
+- Estatura, peso: No se registro talla ni peso actual en la ficha clinica
 - Articulaciones: rango de movimiento (ROM), tolerancia a 
 
 fuerzas/presión correctivas:Movilidad de caderas y extremidades normal,abducción normal,tolera la presión correctiva(corse semirrigido) 
