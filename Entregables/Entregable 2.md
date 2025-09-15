@@ -2,34 +2,56 @@
 
 1. Información Personal:
 -Nombre: Mendoza de la Cruz Dilan Leonel.
+
 -Edad: 5 años a la fecha actual (19/08/2025).
+
 -Fecha de nacimiento: 10/03/2019.
+
 -Sexo: Masculino.
+
 -Dirección: Caserío Tambería, sector Santa Elvira, Cachachi, Cajabamba, Cajamarca.
+
 -Tutor o apoderado: Su padre, Martín Orlando Mendoza León, es el responsable. Su madre es Duani Rocío de la Cruz Muñoz.
+
 -Referencia: Fue referido el 17/03/2023 desde el Hospital Regional Docente de Cajamarca con un diagnóstico de amputación traumática a nivel de la rodilla.
+
 2. Financiamiento:
+
 ● Fuentes de financiamiento para la evaluación, el
 equipo, seguimiento y capacitación: Su mamá y el SIS
+
 ● Política de la fuente de financiamiento, criterios de
-aprobación y flexibilidad: no menciona
+aprobación y flexibilidad: no menciona]
+
 ● Aseguradora, número de póliza, nombre y número de
 teléfono de contacto: no menciona
 
 3. Diagnósticos e historial médico:
+
 -Diagnóstico Principal: Amputación de miembro inferior izquierdo (MII) transtibial, por debajo de la rodilla (BK), en el tercio medio, de etiología traumática.
+
 -Inicio: El accidente ocurrió el 19/12/2022 con una máquina segadora en Cajamarca.
+
 -Pronóstico: El pronóstico es bueno.
+
 -Tratamiento: El plan de trabajo inicial incluyó radiografía del muñón , terapia física , terapia ocupacional , psicología , servicio social y una interconsulta a comunicación (lenguaje). Posteriormente, se le indicó el uso de una prótesis BK con pie SACH.
+
 -Cirugías pasadas: El paciente fue sometido a una amputación del MII transtibial. Existe una probabilidad de que requiera corrección quirúrgica por sobrecrecimiento óseo, una complicación frecuente en niños en crecimiento.
+
 -Dolor, molestias, quejas o inquietudes: El paciente presenta dolor en el muñón, el cual tiene una zona enrojecida con una leve laceración de aproximadamente 0.5 cm de longitud.
+
 -Función motora oral: Presenta dislalias al hablar.
+
 -Otras funciones: Las funciones biológicas son normales , con funciones superiores normales. La marcha es dependiente, aunque con la prótesis ha logrado una marcha independiente.
 
 4. Estado psicosocial
--Comportamientos y rasgos de personalidad: Antes de la amputación, era un niño tranquilo, pero después se volvió irritable, renegón y temeroso con el personal médico.
+
+-Comportamientos y rasgos de personalidad: Antes de la amputación, era un niño tranquilo, pero después se volvió irritable, renegón y temeroso con el personal médico.<
+
 -Situación de vida y entorno: Dilan vive en un área rural con servicios de agua y luz.
+
 -Escuela, vocación y empleo: Se encuentra en educación inicial y, debido a las citas médicas y correcciones de su prótesis, ha tenido inasistencias al colegio.
+
 -Rutina diaria: Se traslada en casa saltando o gateando, y en la calle lo llevan cargando. Colabora en la vestimenta y en la higiene mayor, pero lo asisten para la higiene menor.
 
 5. **Estado neuromuscular y musculoesquelético** 
