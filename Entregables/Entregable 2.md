@@ -55,31 +55,28 @@ teléfono de contacto: no menciona
 -Rutina diaria: Se traslada en casa saltando o gateando, y en la calle lo llevan cargando. Colabora en la vestimenta y en la higiene mayor, pero lo asisten para la higiene menor.
 
 5. **Estado neuromuscular y musculoesquelético** 
-- Estatura, peso: No se registro talla ni peso actual en la ficha clinica
-- Articulaciones: rango de movimiento (ROM), tolerancia a 
+● Estatura, peso: No se registro talla ni peso actual en la ficha clinica
+● Articulaciones: rango de movimiento (ROM), tolerancia a fuerzas/presión correctivas:
+-ROM de articulaciones no documentado en detalle; la marcha con prótesis e independencia funcional sugieren ROM funcional adecuado en extremidades superiores y miembro inferior derecho. 
 
-fuerzas/presión correctivas:ROM de articulaciones no documentado en detalle; la marcha con prótesis e independencia funcional sugieren ROM funcional adecuado en extremidades superiores y miembro inferior derecho. 
+● Músculos: tono, espasticidad, flexibilidad, rigidez, temblor, fuerza, fatiga muscular:
+-Tono y fuerza: musculatura del muñón “firme” y fuerza muscular conservada/buena según registros. No se describen espasticidad, rigidez ni temblor.
 
-- Músculos: tono, espasticidad, flexibilidad, rigidez, temblor, 
+● Influencias neurológicas: No se reportan alteraciones neurológicas ni reflejos patológicos en la ficha
 
-fuerza, fatiga muscular:Tono y fuerza: musculatura del muñón “firme” y fuerza muscular conservada/buena según registros. No se describen espasticidad, rigidez ni temblor.
+● influencias anormales::marcha normal,no se mencionan reacciones anormales ni signos de déficit neurológico 
 
-- Influencias neurológicas: No se reportan alteraciones neurológicas ni reflejos patológicos en la ficha
+● Postura:Inicialmente marcha dependiente antes de la prótesis; tras entrega y entrenamiento con prótesis alcanza marcha independiente
+●  Control motor: calidad del movimiento, coordinación,no se reportan limitaciones significativas, la prostetización y marcha independiente indican funcionalidad muscular suficiente.
+● resolución, tiempo de reacción:Calidad y coordinación global suficientes para marcha con prótesis y actividades básicas. No hay registro de deterioro en la coordinación ni tiempos de reacción anormales.
 
-influencias anormales::marcha normal,no se mencionan reacciones anormales ni signos de déficit neurológico 
-
-- Postura:Inicialmente marcha dependiente antes de la prótesis; tras entrega y entrenamiento con prótesis alcanza marcha independiente
-- Control motor: calidad del movimiento, coordinación,no se reportan limitaciones significativas, la prostetización y marcha independiente indican funcionalidad muscular suficiente.
-
-resolución, tiempo de reacción:Calidad y coordinación global suficientes para marcha con prótesis y actividades básicas. No hay registro de deterioro en la coordinación ni tiempos de reacción anormales.
-
-- Patrones y estrategias de movimiento (voluntarios, espontáneos):  
+●  Patrones y estrategias de movimiento (voluntarios, espontáneos):  
 
 5. **Estado neuromuscular y musculoesquelético** 
 
-- Postura y posicionamiento óptimos para acceder a las tecnologías 
-- Información adicional para la evaluación de la sedestación: 
-1. **Alineación esquelética, desviaciones o** 
+● Postura y posicionamiento óptimos para acceder a las tecnologías 
+● Información adicional para la evaluación de la sedestación: 
+a.**Alineación esquelética, desviaciones** 
 
 **deformidades, limitaciones fijas o flexibles, subluxación, dislocación, asimetrías espinales, asimetrías pélvicas (inclinación, rotación u oblicuidad) -**Desviaciones: 
 
@@ -89,29 +86,29 @@ resolución, tiempo de reacción:Calidad y coordinación global suficientes para
 
 -Asimetría espinal 
 
-2. **Patrones de postura y movimiento, y estabilidad o soporte externo requerido -**
+b. **Patrones de postura y movimiento, y estabilidad o soporte externo requerido -**
 
 Requiere soporte protésico bien ajustado (socket sin puntos de presión), y competencias parentales para atención y supervisión. La ficha registra necesidad de ajustes por zonas de presión y laceración que ya han requerido intervención por biomecánica. 
 
 
-2. **Influencias biomecánicas y kinesiológicas** 
+c. **Influencias biomecánicas y kinesiológicas** 
 
 -Crecimiento infantil produce variaciones en volumen de muñón y alineamiento protésico → necesidad de reajustes frecuentes. Existe riesgo de sobrecarga en extremidad sana y aparición de dolor/disfunción a medio plazo. (comentario presente en el caso clinico).
 
-4. **Potencial y tolerancia para la corrección** 
+d. **Potencial y tolerancia para la corrección** 
 
 -Potencial para rehabilitación y marcha funcional alto (ya alcanzado marcha independiente).
 
 -Tolerancia al encaje y uso de prótesis variable: ya hubo zonas de presión y laceración que necesitan corrección del socket y seguimiento; la tolerancia mejorará con ajuste biomecánico y revisiones periódicas. 
 
 6. **Afección de la piel** 
-- Afección de la piel, cicatrices, textura de los 
+● Afección de la piel, cicatrices, textura de los 
 
 tejidos blandos, edema, color, palidez: 
 
 -Muñón: tejido celular subcutáneo regular, buena cobertura y bordes óseos romos en el postoperatorio inmediato.
 
-- Antecedentes o presencia de úlceras por 
+● Antecedentes o presencia de úlceras por 
 
 presión, ubicación, causas 
 
@@ -121,9 +118,9 @@ circundantes, tratamiento, riesgos:
 
 -Zona de presión a nivel de cóndilo medial del muñón tras uso de prótesis
 
--Desencadenante principal: presión/fricción mal distribuida por mal ajuste del socket y cambios por crecimiento. Condiciones añadidas: uso prolongado de la prótesis sin ajuste oportuno, desplazamientos largos y posible falta de acolchado en zonas de apoyo. 
+● Desencadenante principal: 
+-Presión/fricción mal distribuida por mal ajuste del socket y cambios por crecimiento. Condiciones añadidas: uso prolongado de la prótesis sin ajuste oportuno, desplazamientos largos y posible falta de acolchado en zonas de apoyo. 
 
-CASO 5 mendoza de la cruz (1)
 -No se reportan úlceras crónicas; sí episodios de lesión por presión / laceración puntual relacionados con el socket que requirieron intervención y ajuste.
 7. **Función sensorial** 
 - Visión: visión funcional, agudeza, percepción 
