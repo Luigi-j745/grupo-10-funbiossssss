@@ -71,32 +71,38 @@ influencias anormales::marcha normal,no se mencionan reacciones anormales ni sig
 - Postura:Inicialmente marcha dependiente antes de la prótesis; tras entrega y entrenamiento con prótesis alcanza marcha independiente
 - Control motor: calidad del movimiento, coordinación,no se reportan limitaciones significativas, la prostetización y marcha independiente indican funcionalidad muscular suficiente.
 
-resolución, tiempo de reacción:calidad de movimiento adecuada pero con compensaciones posturales, coordinación preservada para edad, su resolución motriz de acorde a desarrollo y tiempo de reacción normal 
+resolución, tiempo de reacción:Calidad y coordinación global suficientes para marcha con prótesis y actividades básicas. No hay registro de deterioro en la coordinación ni tiempos de reacción anormales.
 
 - Patrones y estrategias de movimiento (voluntarios, espontáneos):  
+
 5. **Estado neuromuscular y musculoesquelético** 
+
 - Postura y posicionamiento óptimos para acceder a las tecnologías 
 - Información adicional para la evaluación de la sedestación: 
 1. **Alineación esquelética, desviaciones o** 
 
 **deformidades, limitaciones fijas o flexibles, subluxación, dislocación, asimetrías espinales, asimetrías pélvicas (inclinación, rotación u oblicuidad) -**Desviaciones: 
 
--Escoliosis congénita doble curva 
+-No hay registro de subluxación/dislocación. No se documentan asimetrías pélvicas en la ficha; sin embargo, la amputación puede inducir desviaciones funcionales en la marcha y postura que requieren evaluación dinámica protésica.
 
 -Sin dislocaciones ni deformidades 
 
 -Asimetría espinal 
 
-2. **Patrones de postura y movimiento, y estabilidad o soporte externo requerido -**Necesita soporte externo parcial(corsé en prueba) 
+2. **Patrones de postura y movimiento, y estabilidad o soporte externo requerido -**
+
+Requiere soporte protésico bien ajustado (socket sin puntos de presión), y competencias parentales para atención y supervisión. La ficha registra necesidad de ajustes por zonas de presión y laceración que ya han requerido intervención por biomecánica. 
+
+
 2. **Influencias biomecánicas y kinesiológicas** 
 
-**-**Marcha en base amplia 
-
--Desviación de columna y lateralización afectan equilibrio 
+-Crecimiento infantil produce variaciones en volumen de muñón y alineamiento protésico → necesidad de reajustes frecuentes. Existe riesgo de sobrecarga en extremidad sana y aparición de dolor/disfunción a medio plazo. (comentario presente en el caso clinico).
 
 4. **Potencial y tolerancia para la corrección** 
 
-Buen potencial de corrección, ya que sigue en crecimiento y ausencia de rigidez Tolerancia limitada, el corsé causa irritabilidad y llanto, se esta adaptando 
+-Potencial para rehabilitación y marcha funcional alto (ya alcanzado marcha independiente).
+
+-Tolerancia al encaje y uso de prótesis variable: ya hubo zonas de presión y laceración que necesitan corrección del socket y seguimiento; la tolerancia mejorará con ajuste biomecánico y revisiones periódicas. 
 
 6. **Afección de la piel** 
 - Afección de la piel, cicatrices, textura de los 
@@ -113,10 +119,12 @@ desencadenantes, circunstancias
 
 circundantes, tratamiento, riesgos: 
 
--No presenta úlceras 
+-Zona de presión a nivel de cóndilo medial del muñón tras uso de prótesis
 
--Riesgo de desarrollar úlceras por presión del corsé(uso prolongado) 
+-Desencadenante principal: presión/fricción mal distribuida por mal ajuste del socket y cambios por crecimiento. Condiciones añadidas: uso prolongado de la prótesis sin ajuste oportuno, desplazamientos largos y posible falta de acolchado en zonas de apoyo. 
 
+CASO 5 mendoza de la cruz (1)
+-No se reportan úlceras crónicas; sí episodios de lesión por presión / laceración puntual relacionados con el socket que requirieron intervención y ajuste.
 7. **Función sensorial** 
 - Visión: visión funcional, agudeza, percepción 
 
