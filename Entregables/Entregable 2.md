@@ -82,10 +82,6 @@ a.**Alineación esquelética, desviaciones**
 
 -No hay registro de subluxación/dislocación. No se documentan asimetrías pélvicas en la ficha; sin embargo, la amputación puede inducir desviaciones funcionales en la marcha y postura que requieren evaluación dinámica protésica.
 
--Sin dislocaciones ni deformidades 
-
--Asimetría espinal 
-
 b. **Patrones de postura y movimiento, y estabilidad o soporte externo requerido -**
 
 Requiere soporte protésico bien ajustado (socket sin puntos de presión), y competencias parentales para atención y supervisión. La ficha registra necesidad de ajustes por zonas de presión y laceración que ya han requerido intervención por biomecánica. 
@@ -102,7 +98,7 @@ d. **Potencial y tolerancia para la corrección**
 -Tolerancia al encaje y uso de prótesis variable: ya hubo zonas de presión y laceración que necesitan corrección del socket y seguimiento; la tolerancia mejorará con ajuste biomecánico y revisiones periódicas. 
 
 6. **Afección de la piel** 
-● Afección de la piel, cicatrices, textura de los 
+● Afecciones de la piel, cicatrices, textura de los 
 
 tejidos blandos, edema, color, palidez: 
 
