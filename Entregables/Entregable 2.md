@@ -1,57 +1,37 @@
 ﻿**PUNTO 1:**  
 
-1. **Información Personal:** 
-- Nombre y dirección del cliente, información de 
+1. Información Personal:
+-Nombre: Mendoza de la Cruz Dilan Leonel.
+-Edad: 5 años a la fecha actual (19/08/2025).
+-Fecha de nacimiento: 10/03/2019.
+-Sexo: Masculino.
+-Dirección: Caserío Tambería, sector Santa Elvira, Cachachi, Cajabamba, Cajamarca.
+-Tutor o apoderado: Su padre, Martín Orlando Mendoza León, es el responsable. Su madre es Duani Rocío de la Cruz Muñoz.
+-Referencia: Fue referido el 17/03/2023 desde el Hospital Regional Docente de Cajamarca con un diagnóstico de amputación traumática a nivel de la rodilla.
+2. Financiamiento:
+● Fuentes de financiamiento para la evaluación, el
+equipo, seguimiento y capacitación: Su mamá y el SIS
+● Política de la fuente de financiamiento, criterios de
+aprobación y flexibilidad: no menciona
+● Aseguradora, número de póliza, nombre y número de
+teléfono de contacto: no menciona
 
-contacto: ARAOS GUTIERREZ YEFERSON 
+3. Diagnósticos e historial médico:
+-Diagnóstico Principal: Amputación de miembro inferior izquierdo (MII) transtibial, por debajo de la rodilla (BK), en el tercio medio, de etiología traumática.
+-Inicio: El accidente ocurrió el 19/12/2022 con una máquina segadora en Cajamarca.
+-Pronóstico: El pronóstico es bueno.
+-Tratamiento: El plan de trabajo inicial incluyó radiografía del muñón , terapia física , terapia ocupacional , psicología , servicio social y una interconsulta a comunicación (lenguaje). Posteriormente, se le indicó el uso de una prótesis BK con pie SACH.
+-Cirugías pasadas: El paciente fue sometido a una amputación del MII transtibial. Existe una probabilidad de que requiera corrección quirúrgica por sobrecrecimiento óseo, una complicación frecuente en niños en crecimiento.
+-Dolor, molestias, quejas o inquietudes: El paciente presenta dolor en el muñón, el cual tiene una zona enrojecida con una leve laceración de aproximadamente 0.5 cm de longitud.
+-Función motora oral: Presenta dislalias al hablar.
+-Otras funciones: Las funciones biológicas son normales , con funciones superiores normales. La marcha es dependiente, aunque con la prótesis ha logrado una marcha independiente.
 
-- Fecha de nacimiento, género : 27/09/2023, Hombre 
-- Médico (s) y especialistas: Neurocirugía 
-- Fuente de referencia y motivo de la referencia: Referencia 22/04/2025 del INSN, paciente referido del Hospital Maria Auxiliadora por escoliosis visto por Neurocirugía por alteración de columna congénita. Indican RMN para evaluación de disrafismo. No controla esfínteres, niega dolor. Rx con ángulo de Cobb 26 grados. 
-- Regímenes de tratamiento médico o terapéutico 
+4. Estado psicosocial
+-Comportamientos y rasgos de personalidad: Antes de la amputación, era un niño tranquilo, pero después se volvió irritable, renegón y temeroso con el personal médico.
+-Situación de vida y entorno: Dilan vive en un área rural con servicios de agua y luz.
+-Escuela, vocación y empleo: Se encuentra en educación inicial y, debido a las citas médicas y correcciones de su prótesis, ha tenido inasistencias al colegio.
+-Rutina diaria: Se traslada en casa saltando o gateando, y en la calle lo llevan cargando. Colabora en la vestimenta y en la higiene mayor, pero lo asisten para la higiene menor.
 
-existentes y sus objetivos 
-
-2. **Financiamiento:** 
-- Fuentes de financiamiento para la evaluación, el 
-
-equipo, seguimiento y capacitación: Su mamá y el SIS 
-
-- Política de la fuente de financiamiento, criterios de 
-
-aprobación y flexibilidad: no menciona 
-
-- Aseguradora, número de póliza, nombre y número de 
-
-teléfono de contacto: no menciona 
-
-3. **Diagnósticos e historial médico:** 
-- Diagnóstico principal, diagnósticos secundarios, 
-
-inicio, tratamiento, pronóstico : Rotoescoliosis dorsal congénita con desviación hacia la izquierda; diagnóstico secundario, escoliosis doble curva dorsal izquierda moderada, lumbar derecha moderada congénita 
-
-- Contraindicaciones o precauciones relacionadas 
-
-con el uso de la tecnología: El paciente es muy temeroso y poco colaborador con los exámenes, es irritable y no se deja tocar, llora mucho; lo que dificulta la evaluación y la toma del molde de yeso para el corsé.  
-
-- Cirugías pasadas, planes quirúrgicos futuros: Por el momento, el paciente no es candidato para cirugía. 
-- Medicamentos, dosis, motivo: El paciente no toma medicación habitual. 
-- Dolor, molestias, quejas o inquietudes: Niega dolor 
-- Función motora oral para el habla y la deglución: **Habla;** sus primeras palabras fueron a 1 año y 6 meses. Actualmente dice "mamá, papá, vete, chau". **Deglución;** su alimentación es completa. 
-- Estado cardíaco y respiratorio, resistencia: No se proporciona información específica 
-- Función intestinal y vesical: **Función intestinal**; la madre reporta estreñimiento. 
-
-**Función vesical**; la madre refiere "orina cargada", el paciente no controla esfínteres. 
-
-4. **Estado psicosocial** 
-- Interacción social, comunicación, cognición: El paciente es poco colaborador y muy temeroso 
-- Conciencia de seguridad, juicio: no menciona  
-- Comportamientos, rasgos de personalidad: Se describe como irritable y que llora mucho. 
-- Motivación, aprendizaje, sistema de apoyo: La madre es enseñada de forma demostrativa para realizar los ejercicios al niño. 
-- Actitud, tolerancia a la tecnología: poca, con la toma del molde de yeso para el corsé 
-- Situación de vida y entorno, influencias culturales, dinámica familiar: Viven en una vivienda de material triplay, solo con luz. Tiene dos hermanos sanos 
-- Escuela, vocación, empleo, programa diurno, recreación, actividades de ocio: no menciona  
-- Rutina diaria, actividades, equipo utilizado, posición preferida: **Actividades;** realiza los ejercicios que le enseñan en terapia física. **Equipo utilizado**;** se le ha indicado un corsé tipo Baby Boston y un corsé semirrígido dorsolumbar para probar su tolerancia. **Posición preferida**;no se menciona. 
 5. **Estado neuromuscular y musculoesquelético** 
 - Estatura, peso: No se registro talla ni peso actual en la ficha clinica
 - Articulaciones: rango de movimiento (ROM), tolerancia a 
