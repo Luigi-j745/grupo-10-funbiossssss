@@ -60,17 +60,14 @@ fuerzas/presión correctivas:Movilidad de caderas y extremidades normal,abducci�
 
 - Músculos: tono, espasticidad, flexibilidad, rigidez, temblor, 
 
-fuerza, fatiga muscular:No presenta espasticidad o temblor 
+fuerza, fatiga muscular:Tono y fuerza: musculatura del muñón “firme” y fuerza muscular conservada/buena según registros. No se describen espasticidad, rigidez ni temblor.
 
-- Influencias neurológicas: reflejos primitivos, reacciones, 
+- Influencias neurológicas: No se reportan alteraciones neurológicas ni reflejos patológicos en la ficha
 
 influencias anormales::marcha normal,no se mencionan reacciones anormales ni signos de déficit neurológico 
 
-- Postura: control postural, equilibrio al sentarse y al estar de 
-
-pie, estabilidad, recuperación:Control postural alterado por la escoliosis(DOble curva:dorsal izq y lumbar derecha),inclinación de tronco con caída de peso en lado izquierdo. 
-
-- Control motor: calidad del movimiento, coordinación, 
+- Postura:Inicialmente marcha dependiente antes de la prótesis; tras entrega y entrenamiento con prótesis alcanza marcha independiente
+- Control motor: calidad del movimiento, coordinación,no se reportan limitaciones significativas, la prostetización y marcha independiente indican funcionalidad muscular suficiente.
 
 resolución, tiempo de reacción:calidad de movimiento adecuada pero con compensaciones posturales, coordinación preservada para edad, su resolución motriz de acorde a desarrollo y tiempo de reacción normal 
 
