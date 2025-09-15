@@ -11,7 +11,7 @@
 
 -Dirección: Caserío Tambería, sector Santa Elvira, Cachachi, Cajabamba, Cajamarca.
 
--Tutor o apoderado: Su padre, Martín Orlando Mendoza León, es el responsable. Su madre es Duani Rocío de la Cruz Muñoz.
+-Tutor o apoderado: Su padre, Martín Orlando Mendoza León, es el responsable. Su papá es Duani Rocío de la Cruz Muñoz.
 
 -Referencia: Fue referido el 17/03/2023 desde el Hospital Regional Docente de Cajamarca con un diagnóstico de amputación traumática a nivel de la rodilla.
 
