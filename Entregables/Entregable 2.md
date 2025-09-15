@@ -104,7 +104,7 @@ Buen potencial de corrección, ya que sigue en crecimiento y ausencia de rigidez
 
 tejidos blandos, edema, color, palidez: 
 
--No se descubren cicatrices ni lesiones,piel sana e íntegra 
+-Muñón: tejido celular subcutáneo regular, buena cobertura y bordes óseos romos en el postoperatorio inmediato.
 
 - Antecedentes o presencia de úlceras por 
 
