@@ -56,7 +56,7 @@ con el uso de la tecnología: El paciente es muy temeroso y poco colaborador con
 - Estatura, peso: No se registro talla ni peso actual en la ficha clinica
 - Articulaciones: rango de movimiento (ROM), tolerancia a 
 
-fuerzas/presión correctivas:Movilidad de caderas y extremidades normal,abducción normal,tolera la presión correctiva(corse semirrigido) 
+fuerzas/presión correctivas:ROM de articulaciones no documentado en detalle; la marcha con prótesis e independencia funcional sugieren ROM funcional adecuado en extremidades superiores y miembro inferior derecho. 
 
 - Músculos: tono, espasticidad, flexibilidad, rigidez, temblor, 
 
