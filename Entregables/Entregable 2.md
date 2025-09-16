@@ -174,15 +174,15 @@ No utiliza actualmente aunque, puede considerarse su uso en un futuro para estim
 
 **distancia, eficiencia, desviaciones de la marcha.** 
 
-- Ambulación: marcha independiente, base amplia de sustentación, arcos descendidos y calcáneo valgo bilateral. Velocidad y distancia propias de su edad, aunque con menor eficiencia por desviación postural. 
-- Dispositivos de asistencia: actualmente no usa bastón ni andador, pero sí se indica uso de corsé semirrígido (Baby Boston / dorsolumbar de hiperextensión). 
-- Eficiencia de la marcha: afectada por la desviación de la columna y alteraciones en pies; sin embargo, conserva movilidad y tono. 
-- Desviaciones de la marcha: inclinación del tronco hacia la izquierda, caída del peso en ese lado, calcáneo valgo, arco longitudinal descendido. 
+- Ambulación: Actualmente deambula con prótesis BK convencional y pie SACH. Marcha independiente, aunque con limitaciones por zonas de presión en el muñón que generan dolor.
+- Dispositivos de asistencia: Uso de prótesis BK y pie SACH. No requiere bastón ni andador. 
+- Eficiencia de la marcha: Afectada de manera intermitente por molestias en el muñón y necesidad de ajustes en el socket; conserva buena fuerza y tono muscular.afectada por la desviación de la columna y alteraciones en pies; sin embargo, conserva movilidad y tono. 
+- Desviaciones de la marcha: Por la edad requiere asistencia parcial de los padres, sobre todo al subir o bajar superficies. La seguridad está garantizada siempre que use la prótesis y cuente con supervisión
 - **Traslados (cama, inodoro, bañera, vehículo),** 
 
 **seguridad y eficiencia**. 
 
-- Debido a su edad requiere asistencia de los padres, con seguridad parcial. La eficiencia depende del apoyo del cuidador, sobre todo si usa corsé. 
+- Debido a su edad requiere asistencia de los padres, con seguridad parcial. 
 - **Uso de silla de ruedas: horas de uso diario,** 
 
 **constante o intermitente, tolerancia a estar sentado,** 
@@ -191,14 +191,15 @@ No utiliza actualmente aunque, puede considerarse su uso en un futuro para estim
 
 **peso, almacenamiento.** 
 
-- No aplica en este momento, ya que deambula independientemente. Si en algún momento presentara fatiga, dolor o indicación médica, podría valorarse una silla ligera infantil para trayectos largos. 
+- No aplica en este momento, ya que deambula con prótesis. Podría considerarse en caso de fatiga, dolor o en trayectos largos.
 10. **Transporte comunitario** 
 - **Vehículos: automóvil, camioneta personal, camioneta** 
 
 **pública, taxi, autobús escolar, autobús público.** 
 
-- Depende de los padres, principalmente automóvil o transporte público acompañado. 
-- **Entrada y salida: ascensor, rampa, altura de la puerta,** 
+- Se traslada principalmente en automóvil particular o transporte público acompañado por sus padres.. 
+- **Entrada y salida: ascensor, rampa, altura de la puerta,**
+- Requiere asistencia de los padres para subir o bajar del vehículo. La prótesis y el dolor en muñón pueden dificultar la flexión de rodilla y tronco.
 
 **tamaño, ancho, límite de peso, transferencias,** 
 
@@ -213,12 +214,11 @@ No utiliza actualmente aunque, puede considerarse su uso en un futuro para estim
 
 **colocación en el vehículo.** 
 
-- No aplica actualmente, pues no requiere silla de ruedas. 
+- No aplica actualmente, pues no usa silla de ruedas.
 - **Almacenamiento de la silla de ruedas y otros equipos de** 
 
 **tecnología de asistencia durante el transporte.** 
-
-- Tampoco aplica, pero se debe considerar el transporte del corsé y posibles implementos de fisioterapia. 
+- No aplica almacenamiento de silla de ruedas; sí se debe considerar el transporte de implementos de fisioterapia o insumos para el cuidado del muñón.
 11. **Entornos:** 
 - **Todos los sitios: hogar, escuela, vocación, trabajo, comunidad, recreación** 
 
