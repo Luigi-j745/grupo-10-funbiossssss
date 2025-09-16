@@ -118,10 +118,9 @@ circundantes, tratamiento, riesgos:
 -Presión/fricción mal distribuida por mal ajuste del socket y cambios por crecimiento. Condiciones añadidas: uso prolongado de la prótesis sin ajuste oportuno, desplazamientos largos y posible falta de acolchado en zonas de apoyo. 
 
 -No se reportan úlceras crónicas; sí episodios de lesión por presión / laceración puntual relacionados con el socket que requirieron intervención y ajuste.
-7. **Función sensorial** 
-- Visión: visión funcional, agudeza, percepción 
 
-visual. 
+7. **Función sensorial** 
+- Visión: visión funcional, agudeza, percepción visual. 
 
 -No se reportan alteraciones visuales en la historia clínica. Se asume visión funcional adecuada, con agudeza visual y percepción dentro de lo esperado para su edad. 
 
@@ -130,40 +129,42 @@ visual.
 -No hay antecedentes de problemas de respuesta a estímulos auditivos, se asume audición conservada. 
 
 - Percepción sensorial: tacto, propiocepción, sentido kinestésico. 
-- Tacto: Responde a estímulos táctiles, aunque presenta alta irritabilidad y rechazo al contacto físico durante evaluaciones y terapias, lo que podría indicar hipersensibilidad táctil. 
-- Propiocepción y sentido kinestésico: La alteración postural sugiere un desafio en la integración propioceptiva, que podría influir en su marcha y control corporal. 
+- Tacto: No se describen alteraciones específicas, responde a estímulos, aunque se evidencia irritabilidad y rechazo al personal médico tras la amputación, lo que puede influir en la respuesta al contacto físico. 
+- Propiocepción y sentido kinestésico: Inicialmente presentó marcha dependiente (saltando o gateando en casa y cargado en la calle). Tras el uso de prótesis, logró marcha independiente, aunque con episodios de dolor en muñón y enrojecimiento distal, lo que sugiere necesidad de seguimiento en integración postural y propioceptiva.
+
 7. Habla, lenguaje y comunicación 
 - Capacidad de lenguaje expresivo y receptivo 
 
-Sus primeras palabras fueron dichas a los 1 año y 6 meses, y actualmente usa palabras simples como “mamá”, “papá”, “vete”, “chau”. Su lenguaje expresivo es adecuado para su edad cronológica. 
+Funciones superiores normales. Presenta dislalias al hablar, pero logra comunicarse adecuadamente para su edad. Ha recibido referencia para terapia de lenguaje.
 
 - Habla, articulación 
 
-No hay reporte de dislalias ni alteraciones en la producción de sonidos, su desarrollo fonético parece acorde a su etapa 
+Se reportan dislalias, sin otras alteraciones significativas en la producción de sonidos.
 
-- Nivel cognitivo, capacidad de aprendizaje, capacidad de atención, estado académico/educativo Presenta marcha independiente y adquisición de lenguaje en tiempo aceptable, pero su baja tolerancia a la manipulación y dificultades para colaborar podrán influir en procesos de aprendizaje. Por la edad, no asiste a escuela, la atención es limitada debido a irritabilidad y rechazo a evaluaciones. 
+- Nivel cognitivo, capacidad de aprendizaje, capacidad de atención, estado académico/educativo
+Presenta desarrollo psicomotor normal y adquisición de lenguaje acorde a la edad, sin alteraciones significativas en funciones superiores. Actualmente asiste a educación inicial, pero su irritabilidad, temor al personal médico y rechazo a evaluaciones pueden influir en su tolerancia, atención y procesos de aprendizaje.
 - Uso y experiencia con dispositivos generadores de habla 
 
-No aplica por su edad. 
+No aplica por la edad ni por la necesidad actual.
 
 8. **Desempeño funcional, de habilidades y de tareas** 
 - Cantidad de asistencia necesaria, uso de equipos 
 
-Actualmente usa corsé tipo Baby Boston y posteriormente probará corset semirrígido dorsolumbar para tolerancia. Requiere asistencia moderada en actividades que implican manipulación de su postura. 
+Actualmente usa prótesis BK convencional con pie SACH, tras entrenamiento en terapia física y ocupacional. Requiere asistencia moderada en actividades que impliquen manipulación postural y supervisión constante.
 
 - Actividades de la vida diaria (AVD), incluyendo cuidado personal, vestirse, cocinar, ir al baño, bañarse, higiene 
   - Cuidado personal y vestirse: Dependiente de los padres. 
-  - Higiene y baño: Completamente asistido. 
+  - Higiene y baño: Completamente asistido y colabora.
 - Alimentación, posicionamiento para comer 
-  - Alimentación: Ingesta de alimentación entera sin reporte de dificultades de deglución. 
-  - Posicionamiento para comer: No se reportan problemas, aunque podría beneficiarse de supervisión por su escoliosis. 
+  - Alimentación: Independiente, sin dificultades en deglución.
+  - Posicionamiento para comer: El posicionamiento no presenta complicaciones, aunque se recomienda supervisión por su condición de amputado y uso de       prótesis.
 - Tareas y habilidades laborales: empleo, tareas del hogar, actividades vocacionales 
 
 No aplica por la edad. 
 
 - Actividades de mesa, altura de la superficie de trabajo, superficies de apoyo 
 
-Aún no desarrolla tareas estructuradas; sin embargo, la altura de superficies y el posicionamiento serán importantes a medida que crezca, debido a la escoliosis. 
+Aún no desarrolla tareas estructuradas; sin embargo, la altura de superficies y el posicionamiento serán importantes a medida que crezca, debido al uso de protesis. 
 
 - Computadoras y otras tecnologías utilizadas, métodos y estrategias de acceso 
 
