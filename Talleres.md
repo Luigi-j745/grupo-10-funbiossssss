@@ -19,3 +19,7 @@ Eva Romero
 ![Certificado3](https://drive.google.com/uc?export=view&id=1sPvd7jB2alZ2-t5-ughgiu-MrqohzJBC)
 ![Certificado4](https://drive.google.com/uc?export=view&id=1ibP0lJawDxGB09Oy3CbXpFHP_S9epa2Z)
 ![Certificado5](https://drive.google.com/uc?export=view&id=1qfP084yqRg7QLxVZ6oRWrQ19Y-tIlzNL)
+
+
+Natalia Seminaario 
+![Certificado](https://drive.google.com/uc?export=view&id=1wnxsd68oJ8ODJEApFJZ4XbXcc2mHGZdD)
