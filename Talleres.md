@@ -9,3 +9,6 @@ Daniel Vargas
 
 Dayanna Torres
 ![Certificado](https://drive.usercontent.google.com/download?id=1KvF36jZHC9Ivmu22kf9GSEw1MTajpezP)
+
+Adriano Tassi
+![Certificado](https://drive.usercontent.google.com/download?id=1MiZ0StXJquQFgMYEFcbstE_AmvTD-Kr6&export=download&authuser=1)
