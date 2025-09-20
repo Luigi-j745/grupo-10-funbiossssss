@@ -14,4 +14,4 @@ Adriano Tassi
 ![Certificado](https://drive.usercontent.google.com/download?id=1MiZ0StXJquQFgMYEFcbstE_AmvTD-Kr6&export=download&authuser=1)
 
 Eva Romero
-![Certificado](https://drive.usercontent.google.com/download?id=1ffTVUnV7XjjP1xk9oBSMWyXX7yHEyB3Xxport=download&authuser=1)
+![Certificado](https://drive.google.com/uc?export=view&id=1ffTVUnV7XjjP1xk9oBSMWyXX7yHEyB3X)
