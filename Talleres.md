@@ -15,13 +15,7 @@ Adriano Tassi
 
 Eva Romero
 ![Certificado1](https://drive.google.com/uc?export=view&id=1L188TBqPIScNQpV8ebT9wSJmNBsE67Cc)
-
-![Certificado](https://drive.google.com/file/d/1L188TBqPIScNQpV8ebT9wSJmNBsE67Cc/view?usp=share_link)
-
-![Cerificado](https://drive.google.com/file/d/1P1iyJ314CILff4IDPNKVpncBUyxaXlir/view?usp=share_link)
-
-![Certificado](https://drive.google.com/file/d/1sPvd7jB2alZ2-t5-ughgiu-MrqohzJBC/view?usp=share_link)
-
-![Certificado](https://drive.google.com/file/d/1ibP0lJawDxGB09Oy3CbXpFHP_S9epa2Z/view?usp=share_link)
-
-![Certificado](https://drive.google.com/file/d/1qfP084yqRg7QLxVZ6oRWrQ19Y-tIlzNL/view?usp=share_link)
+![Certificado2](https://drive.google.com/uc?export=view&id=1P1iyJ314CILff4IDPNKVpncBUyxaXlir)
+![Certificado3](https://drive.google.com/uc?export=view&id=1sPvd7jB2alZ2-t5-ughgiu-MrqohzJBC)
+![Certificado4](https://drive.google.com/uc?export=view&id=1ibP0lJawDxGB09Oy3CbXpFHP_S9epa2Z)
+![Certificado5](https://drive.google.com/uc?export=view&id=1qfP084yqRg7QLxVZ6oRWrQ19Y-tIlzNL)
