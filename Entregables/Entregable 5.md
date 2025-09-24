@@ -20,7 +20,7 @@ Número de patente / Publicación: US 2012/0116258 A1
 del usuario:A pesar que esta no se dirige exclusivamente a amputados, tiene cualidades que ayudarían a la participación de Dylan durante las rehabilitaciones,debido a que el aparato integra juegos para niños y para mantenerlos motivados  
 ● Imagen/es asociadas:
 
-![][image1]
+<img src="https://drive.usercontent.google.com/download?id=17TZTruqA5RoA-uf2PrvM_Egllr8wam5S" alt="imagen" width="300"/>
 
 Referencia:  
 Lee YS. Rehabilitation Apparatus Using Game Device. US20120116258A1, publicado 10 mayo 2012\. Disponible en: [https://patents.google.com/patent/US20120116258A1/en](https://patents.google.com/patent/US20120116258A1/en) 
