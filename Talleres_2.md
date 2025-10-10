@@ -5,3 +5,6 @@
 
 Dayanna Arlette Danae Torres Diaz
 ![Certificado](https://drive.google.com/uc?export=download&id=17k_26lJCP3LqWS1y8OsHmVkEc8IM6GZW)
+
+Adriano Tassi Romero
+ ![Certificado](https://drive.usercontent.google.com/download?id=1BOvUmXlk4txRy0i4p4L6evKerM5azPdd&export=download)
