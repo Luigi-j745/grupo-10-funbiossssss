@@ -8,3 +8,6 @@ Dayanna Arlette Danae Torres Diaz
 
 Adriano Tassi Romero
  ![Certificado](https://drive.usercontent.google.com/download?id=1BOvUmXlk4txRy0i4p4L6evKerM5azPdd&export=download)
+
+Natalia Seminario Manfredi
+![Certificado](https://drive.usercontent.google.com/download?id=1C_FKTl4CklFOUTd2tt-645nLY_3PcOPg)
