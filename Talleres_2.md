@@ -11,3 +11,5 @@ Adriano Tassi Romero
 
 Natalia Seminario Manfredi
  ![Certificado](https://drive.usercontent.google.com/download?id=1C_FKTl4CklFOUTd2tt-645nLY_3PcOPg)
+ <img src="https://drive.usercontent.google.com/download?id=1C_FKTl4CklFOUTd2tt-645nLY_3PcOPg" alt="Natalia" width="600"/>
+ 
