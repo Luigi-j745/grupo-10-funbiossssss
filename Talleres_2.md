@@ -12,5 +12,7 @@ Adriano Tassi Romero
 Natalia Seminario Manfredi
  <img src="https://drive.usercontent.google.com/download?id=1C_FKTl4CklFOUTd2tt-645nLY_3PcOPg" alt="Natalia" width="1000"/>
  Luigi Roncallo Machare
-  <img src="https://drive.usercontent.google.com/file/d/1D0ihwhWXowQ0_0xw7gjBdMduAwwrYdlF/view?usp=sharing" alt="Luigi" width="1000"/>
+![Certificado](https://drive.google.com/uc?export=view&id=1D0ihwhWXowQ0_0xw7gjBdMduAwwrYdlF)
+
  
+
