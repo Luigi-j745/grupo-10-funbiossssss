@@ -14,5 +14,6 @@ Natalia Seminario Manfredi
  Luigi Roncallo Machare
 ![Certificado](https://drive.google.com/uc?export=view&id=1D0ihwhWXowQ0_0xw7gjBdMduAwwrYdlF)
 
- 
+Eva Micaela Romero Torres
+![Certificado](https://drive.google.com/uc?id=1NXMJroqupv4Vot_LvERNF5G1X_VYFVt4)
 
